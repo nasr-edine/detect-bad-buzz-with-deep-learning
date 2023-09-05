@@ -1,0 +1,9 @@
+isort
+autopep8
+jupyterlab
+jupyterlab-git
+matplotlib
+numpy
+pandas
+seaborn
+tqdm
